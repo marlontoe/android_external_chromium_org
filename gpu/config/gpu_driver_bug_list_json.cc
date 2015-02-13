@@ -958,7 +958,7 @@ LONG_STRING_CONST(
         "type": "android",
         "version": {
           "op": "<=",
-          "value": "4.4.4"
+          "value": "5.0.2"
         }
       },
       "gl_vendor": {
